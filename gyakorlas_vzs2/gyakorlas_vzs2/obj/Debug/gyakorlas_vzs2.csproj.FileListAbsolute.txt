@@ -1,0 +1,11 @@
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\bin\Debug\gyakorlas_vzs2.exe.config
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\bin\Debug\gyakorlas_vzs2.exe
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\bin\Debug\gyakorlas_vzs2.pdb
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\obj\Debug\gyakorlas_vzs2.csproj.AssemblyReference.cache
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\obj\Debug\gyakorlas_vzs2.Form1.resources
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\obj\Debug\gyakorlas_vzs2.Properties.Resources.resources
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\obj\Debug\gyakorlas_vzs2.csproj.GenerateResource.cache
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\obj\Debug\gyakorlas_vzs2.csproj.CoreCompileInputs.cache
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\obj\Debug\gyakorlas_vzs2.exe
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\obj\Debug\gyakorlas_vzs2.pdb
+C:\Users\évf 12\source\repos\gyakorlas_vzs2\gyakorlas_vzs2\obj\Debug\gyakorlas_vzs2.exe.config
